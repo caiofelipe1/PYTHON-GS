@@ -40,4 +40,4 @@
     funcao.py: Contém as funções que obtêm informações sobre a poluição marítima,
               registram e-mails e verificam o status do selo Oceano Vivo.
 ## Link do Vídeo
-    [Vídeo explicativo do código](https://www.youtube.com/watch?v=IvVFVaeVS7g)
+- [Vídeo explicativo do código em Python](https://www.youtube.com/watch?v=IvVFVaeVS7g)
