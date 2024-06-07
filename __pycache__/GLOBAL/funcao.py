@@ -17,7 +17,7 @@ situacao_selo = [
 , "O status do selo Oceano Vivo em Santa Catarina é média. Embora a situação não seja crítica, ainda há muito trabalho a ser feito para alcançar um ambiente marítimo saudável e sustentável."
 , "O status do selo Oceano Vivo no Paraná é média. Embora a situação não seja crítica, ainda há muito trabalho a ser feito para alcançar um ambiente marítimo saudável e sustentável."
 , "Infelizmente, o status do selo Oceano Vivo em São Paulo é péssimo. Isso indica uma necessidade urgente de ações de conservação e políticas ambientais mais rigorosas para melhorar a saúde do nosso oceano."
-, "O status do selo Oceano Vivo em Rio de Janeiro é ruim. Isso significa que há vários problemas de poluição marítima e é necessário um esforço maior para implementar práticas sustentáveis e de conservação."
+, "O status do selo Oceano Vivo no Rio de Janeiro é ruim. Isso significa que há vários problemas de poluição marítima e é necessário um esforço maior para implementar práticas sustentáveis e de conservação."
 ,
     "O status do selo Oceano Vivo no Espirito Santo é boa. Isso indica que estão sendo feitos progressos significativos em termos de sustentabilidade e conservação marítima, mas ainda há espaço para melhorias."
 , "O status do selo Oceano Vivo na Bahia é ruim. Isso significa que há vários problemas de poluição marítima e é necessário um esforço maior para implementar práticas sustentáveis e de conservação."
