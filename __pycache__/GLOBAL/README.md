@@ -1,11 +1,10 @@
 # Oceano Vivo - Plataforma de Sustentabilidade Marítima
-
-Bem-vindo ao Oceano Vivo, uma plataforma dedicada à conscientização sobre a poluição marítima e promoção da sustentabilidade dos nossos oceanos. Este projeto fornece informações sobre a situação dos mares nos estados litorâneos do Brasil e permite que os usuários recebam notificações sobre a poluição em suas regiões.
+    Bem-vindo ao Oceano Vivo, uma plataforma dedicada à conscientização sobre a poluição marítima e promoção da sustentabilidade dos nossos oceanos. Este projeto fornece informações sobre a situação dos mares nos estados litorâneos do Brasil e permite que os usuários recebam notificações sobre a poluição em suas regiões.
 
 ## Nome e RM dos Alunos
-Ricardo Cerazi Di Tilia | 555155
-Caio Felipe De Lima Bezerra | 556197
-Gabriel Terra Lilla | 554575
+    Ricardo Cerazi Di Tilia | 555155
+    Caio Felipe De Lima Bezerra | 556197
+    Gabriel Terra Lilla | 554575
 
 ## Sumário
 - [Instalação](#instalação)
