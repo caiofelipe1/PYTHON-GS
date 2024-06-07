@@ -30,9 +30,12 @@
     Para iniciar o projeto, execute o seguinte comando no terminal dentro do diretório do projeto:
     "python main.py"
     Exemplos de Uso:
-    Após iniciar o projeto, você verá um menu com 4 opções para obter informações sobre a poluição marítima, registrar seu e-mail para notificações e verificar o status do selo Oceano Vivo em seu estado. Selecione a opção desejada digitando o número correspondente e seguindo as instruções fornecidas.
+    Após iniciar o projeto, você verá um menu com 4 opções para obter informações sobre
+    a poluição marítima, registrar seu e-mail para notificações e verificar o status do selo Oceano Vivo em seu estado.
+    Selecione a opção desejada digitando o número correspondente e seguindo as instruções fornecidas.
 
 ## Estrutura do projeto
     main.py: Arquivo principal que executa o projeto.
     menu.py: Contém a função para exibir o menu e gerenciar a interação com o usuário.
-    funcao.py: Contém as funções que obtêm informações sobre a poluição marítima, registram e-mails e verificam o status do selo Oceano Vivo.
+    funcao.py: Contém as funções que obtêm informações sobre a poluição marítima,
+              registram e-mails e verificam o status do selo Oceano Vivo.
