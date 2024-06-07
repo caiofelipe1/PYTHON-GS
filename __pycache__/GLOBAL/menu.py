@@ -1,4 +1,6 @@
-from funcao import estados_lista, registrar_email,situacao_mar,situacao_selo,obter_informacoes_estado,verificar_status_selo
+from funcao import estados_lista, registrar_email, situacao_selo, obter_informacoes_estado,situacao_mar, verificar_status_selo
+
+
 def exibir_menu():
     print("Bem-vindo ao Oceano Vivo - Plataforma de Sustentabilidade Marítima!")
     while True:
@@ -10,13 +12,12 @@ def exibir_menu():
         opcao = input("Digite o número da opção desejada: ")
 
         if opcao == '1':
-            informacoes = estados_lista()
-            print(informacoes)
+            print(obter_informacoes_estado())
         elif opcao == '2':
             registro = registrar_email()
             print(registro)
         elif opcao == '3':
-            situacao_selo()
+            print(verificar_status_selo())
         elif opcao == '4':
             print("Obrigado por usar a nossa plataforma Oceano Vivo. Até logo!")
             break
