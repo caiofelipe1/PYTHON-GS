@@ -14,6 +14,7 @@
 - [Requisitos](#requisitos)
 - [Instruções de Uso](#instruções-de-uso)
 - [Estrutura do Projeto](#estrutura-do-projeto)
+- [Link do Vídeo do Projeto](#Link-do-Vídeo)
 
 
 ## Instalação
@@ -39,3 +40,5 @@
     menu.py: Contém a função para exibir o menu e gerenciar a interação com o usuário.
     funcao.py: Contém as funções que obtêm informações sobre a poluição marítima,
               registram e-mails e verificam o status do selo Oceano Vivo.
+## Link do Vídeo
+- [Vídeo explicativo do código em Python](https://www.youtube.com/watch?v=IvVFVaeVS7g)
